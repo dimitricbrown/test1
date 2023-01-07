@@ -1,1 +1,1 @@
-console.log('On Wednesdays, we were PINK!');
+console.log('On Wednesdays, we wear PINK!');
